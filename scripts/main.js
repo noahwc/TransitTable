@@ -8,32 +8,18 @@ var app = new Vue({
     el: '#main',
     data: {
         stop_id : "",
+        got_list : false,
         times : []
     },
     methods: {
         submit: function (){
             service_parser(function(active_services){
                 stop_parser(active_services, app.stop_id, function(merged_times){
-                    console.log(merged_times);
                     app.times = merged_times;
+                    app.got_list = true;
+                    console.log(app.times);
                 });
             });
         }
     }
-})
-
-Vue.component('stop_list',{
-    template: `
-    <div>
-        <div v-if="gotList">
-            <ul id="times-list">
-                <li v-for="time in times">
-                    {{time.times}}
-                </li>
-            </ul>
-        </div>
-        <div v-else>
-        </div>
-    </div>
-    `
 })
