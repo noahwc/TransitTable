@@ -8,21 +8,15 @@
 <body>
 <h1>VicSch</h1>
 
-<div id="main"></div>
-
-<input v-model="stop" placeholder="Stop number">
-<button v-on:click="submit_query = 1">Look up bus times</button>
-
-<list></list>
-
+<div id=main>
+    <input type=text v-model="stop_id" placeholder="Enter stop number">
+    <button v-on:click="submit">Look up bus times</button>
+        
+    <stop_list></stop_list>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-<script type="module">
-    import {parser} from './scripts/service-loader.js';
-    parser()
-</script>
-<script src="scripts/main.js"></script>
+<script type="module" src="scripts/main.js"></script>
 
 
 </body>

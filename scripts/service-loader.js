@@ -2,7 +2,7 @@ import { fetch } from './load-json.js';
 
 var day_names = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
-export function parser(){
+export function service_parser(callback){
     var date_full = new Date();
     var day_week = day_names[date_full.getDay()].toLowerCase();
     var date_str = date_full.toISOString();
@@ -16,15 +16,8 @@ export function parser(){
             var exceptions = JSON.parse(response_exceptions);
 
             var avail_services = services[day_week].filter(function(el) {
-                console.log("Start:" + el.start);
-                console.log("End:" + el.end);
-                console.log("Curr:" + date_str);
                 return date_str > el.start && date_str < el.end;
             });
-
-            console.log(avail_services);
-
-            date_str = "20191014";
 
             exceptions.forEach(function(exception) {
                 if (date_str == exception.date){
@@ -40,11 +33,7 @@ export function parser(){
                     }
                 }
             });
-            
-            console.log(avail_services);
-            
-            
-
+            callback(avail_services)
         }, "/json/exceptions.json");
 
     }, "/json/services.json");
