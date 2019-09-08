@@ -29,7 +29,8 @@ input, button{
     text-align: center;
     margin-top: 2vh;
     margin-bottom: 2vh;
-    width: 20vw
+    width: 20vw;
+    min-width: 20ch;
 }
 
 hr {
@@ -45,20 +46,14 @@ hr {
     border-top: 1px solid #62AD90;
 }
 
-
-#list-label-left{
+#list-label{
+    white-space: normal;
     font-weight: bold;
     margin-top: 2vh;
-    margin-left: 16.7%;
-}
-
-#list-label-right{
-    font-weight: bold;
-    margin-top: 2vh;
-    margin-right: 16.7%;
 }
 
 .row{
+    white-space: nowrap;
     border: 0;
     display: flex;
     flex-direction: row;
@@ -80,6 +75,10 @@ hr {
 
 .right{
     margin-right: 25vw;
+}
+
+#mid{
+    flex-grow:3;
 }
 
 #main{
