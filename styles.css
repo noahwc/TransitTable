@@ -46,9 +46,16 @@ hr {
 }
 
 
-.list-label{
+#list-label-left{
     font-weight: bold;
     margin-top: 2vh;
+    margin-left: 16.7%;
+}
+
+#list-label-right{
+    font-weight: bold;
+    margin-top: 2vh;
+    margin-right: 16.7%;
 }
 
 .row{
@@ -76,7 +83,8 @@ hr {
 }
 
 #main{
-    text-align: center
+    text-align: center;
+    margin-bottom: 10vh;
 }
 
 * {

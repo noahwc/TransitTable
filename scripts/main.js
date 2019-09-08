@@ -2,6 +2,12 @@ import { fetch } from './load-json.js';
 import {stop_parser} from './stop-loader.js';
 import {service_parser} from './service-loader.js';
 
+const states = {
+    badLOAD: 'load-error',
+    READY: 'displaying',
+    WAITING: 'await-user'
+}
+
 function compare(a, b){
     if (a.departure_time < b.departure_time) return -1;
     if (a.departure_time > b.departure_time) return 1;
@@ -21,17 +27,24 @@ var app = new Vue({
     el: '#main',
     data: {
         stop_id : "",
-        got_list : false,
+        bad_id : "",
+        state : states.WAITING,
         times : []
     },
     methods: {
         submit: function (){
             service_parser(function(active_services){
                 stop_parser(active_services, app.stop_id, function(merged_times){
-                    app.times = merged_times.sort(compare);
-                    app.times = removeDuplicates(app.times);
-                    app.got_list = true;
-                    console.log(app.times);
+                    if(merged_times == states.badLOAD){
+                        app.state = states.badLOAD;
+                        app.bad_id = app.stop_id
+                    }
+                    else{
+                        app.times = merged_times.sort(compare);
+                        app.times = removeDuplicates(app.times);
+                        app.state = states.READY;
+                        console.log(app.times);
+                    }
                 });
             });
         }

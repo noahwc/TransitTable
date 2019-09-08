@@ -18,16 +18,17 @@
     onblur="this.placeholder = 'Enter a stop number'"
     onfocus="this.placeholder = ''"
     v-on:keyup.enter="submit">
+
     <button v-on:click="submit">Look up bus times</button>
 
-    <div v-if="got_list">
+    <div v-if="state == 'displaying'">
 
         <div class=row>
             <div class=col>
-                    <p class="left list-label">Departure Time</p>
+                <p id=list-label-left>Departure Time</p>
             </div>
             <div class=col>
-                    <p class="right list-label">Route</p>
+                <p id=list-label-right>Route</p>
             </div>
         </div>
 
@@ -47,13 +48,16 @@
         </div>
 
     </div>
-        
-        <div v-else>
+
+    <div v-else-if="state == 'load-error'">
+            <p>
+                <strong>{{bad_id}}</strong> is not a valid stop number. Please enter a different stop number.
+            </p>
         </div>
 
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script type="module" src="scripts/main.js"></script>
 
 
