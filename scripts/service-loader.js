@@ -34,8 +34,8 @@ export function service_parser(callback){
                 }
             });
             callback(avail_services)
-        }, "../json/exceptions.json");
+        }, "./json/exceptions.json");
 
-    }, "../json/services.json");
+    }, "./json/services.json");
 
 }

@@ -15,5 +15,5 @@ export function stop_parser(active_services, stop_id, callback){
             });
             callback(times);
         }
-    }, ("../json/" + stop_id + ".json"));
+    }, ("./json/" + stop_id + ".json"));
 }
