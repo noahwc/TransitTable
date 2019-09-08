@@ -4,11 +4,16 @@ body{
 
 h1{
     font-size: 3em;
-    text-align: center;
     color: #3D4C58;
     font-family: 'Lora', serif;
-    padding-top: 6vh;
-    padding-bottom: 1vh;
+    margin: 0;
+    margin-top: 10vh;
+}
+
+h2{
+    font-weight: normal;
+    color: #536878;
+    margin-block-start: 0.2em;
 }
 
 button {
@@ -26,7 +31,6 @@ input, button{
     display: block;
     margin: 0 auto;
     border: none;
-    text-align: center;
     margin-top: 2vh;
     margin-bottom: 2vh;
     width: 20vw;
@@ -39,14 +43,14 @@ hr {
 }
 
 .row:nth-child(odd) div hr{
-    border-top: 1px solid #B7814E;
+    border-top: 2px solid #CE9944;
 }
 
 .row:nth-child(even) div hr{
-    border-top: 1px solid #62AD90;
+    border-top: 2px solid #62AD90;
 }
 
-#list-label{
+.list-label{
     white-space: normal;
     font-weight: bold;
     margin-top: 2vh;
@@ -86,8 +90,9 @@ hr {
 }
 
 #main{
-    text-align: center;
     margin-bottom: 10vh;
+    margin-top: 4vh;
+    font-size: 120%
 }
 
 [v-cloak] {
@@ -95,5 +100,6 @@ hr {
   }
 
 * {
+    text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
 }
