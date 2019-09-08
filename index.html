@@ -23,19 +23,19 @@
 
         <div class=row>
             <div class=col>
-                    <p class=list-label >Departure Time</p>
+                    <p class="list-label left">Departure Time</p>
             </div>
             <div class=col>
-                    <p class=list-label >Route</p>
+                    <p class="list-label right">Route</p>
             </div>
         </div>
 
         <div class=row v-for="time in times">
             <div class=col>
-                <p>{{time.departure_time}}</p>
+                <p class=left >{{time.departure_time}}</p>
             </div>
             <div class=col>
-                <p>{{time.route_id}}</p>
+                <p class=right >{{time.route_id}}</p>
             </div>
         </div>
 

@@ -34,6 +34,7 @@ input, button{
 
 .list-label{
     font-weight: 700;
+    margin-top: 2vh;
 }
 
 .row{
@@ -48,6 +49,14 @@ input, button{
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+}
+
+.left{
+    margin-left: 25vw;
+}
+
+.right{
+    margin-right: 25vw;
 }
 
 #main{
