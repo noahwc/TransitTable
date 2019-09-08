@@ -32,16 +32,32 @@ input, button{
     width: 20vw
 }
 
+hr {
+    border: 0;
+    margin: 1px 3vw;
+}
+
+.row:nth-child(odd) div hr{
+    border-top: 1px solid #B7814E;
+}
+
+.row:nth-child(even) div hr{
+    border-top: 1px solid #62AD90;
+}
+
+
 .list-label{
-    font-weight: 700;
+    font-weight: bold;
     margin-top: 2vh;
 }
 
 .row{
+    border: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    align-items: center;
 }
   
 .col{
