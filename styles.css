@@ -1,0 +1,59 @@
+body{
+    background-color: #EFF1F2;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    color: #3D4C58;
+    font-family: 'Lora', serif;
+    padding-top: 6vh;
+    padding-bottom: 1vh;
+}
+
+button {
+    background-color: #3D4C58; /* Green */
+    color: white;
+    padding: 1vh 2vw;
+    
+}
+
+input {
+    line-height: 4vh;
+}
+
+input, button{
+    display: block;
+    margin: 0 auto;
+    border: none;
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    width: 20vw
+}
+
+.list-label{
+    font-weight: 700;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+  
+.col{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+#main{
+    text-align: center
+}
+
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}

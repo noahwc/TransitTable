@@ -3,29 +3,46 @@
 
 <head>
 <title>Vicsch</title>
+<link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="normalize.css" />
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 <h1>VicSch</h1>
 
 <div id=main>
-
-    <input type=text v-model="stop_id" placeholder="Enter stop number">
+    <input type=text v-model="stop_id"
+    placeholder="Enter a stop number" 
+    onblur="this.placeholder = 'Enter a stop number'"
+    onfocus="this.placeholder = ''">
     <button v-on:click="submit">Look up bus times</button>
 
-    <div>
-        <div v-if="got_list">
-            <ul id="times-list">
-                <li v-for="time in times">
-                    <p>Depart at: {{time.departure_time}}</p>
-                    <p>Route: {{time.route_id}}</p>
-                </li>
-            </ul>
+    <div v-if="got_list">
+
+        <div class=row>
+            <div class=col>
+                    <p class=list-label >Departure Time</p>
+            </div>
+            <div class=col>
+                    <p class=list-label >Route</p>
+            </div>
         </div>
+
+        <div class=row v-for="time in times">
+            <div class=col>
+                <p>{{time.departure_time}}</p>
+            </div>
+            <div class=col>
+                <p>{{time.route_id}}</p>
+            </div>
+        </div>
+
+    </div>
         
         <div v-else>
         </div>
-    </div>
 
 </div>
 
