@@ -1,0 +1,1638 @@
+{
+    "VIC1907-1907MVSA-Saturday-10": [
+        {
+            "departure_time": "24:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:27:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:07:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:27:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:07:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:17:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:17:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:07:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1907-MV1907SU-Sunday-14": [
+        {
+            "departure_time": "09:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:25:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:45:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:23:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1907-MV1907WK-Weekday-10": [
+        {
+            "departure_time": "07:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:37:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:53:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:38:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:32:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:06:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:03:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:08:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:33:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:04:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:01:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:01:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:43:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:51:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:01:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:01:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:17:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:13:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:41:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:01:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:54:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1907ST-Sunday-01": [
+        {
+            "departure_time": "09:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:25:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:45:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:23:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909SA-Saturday-12": [
+        {
+            "departure_time": "07:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:17:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:07:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:17:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:07:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:27:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "24:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:07:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:26:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:49:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:27:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:26:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909SU-Sunday-22": [
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:45:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:18:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909SU-Sunday-25": [
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:45:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:18:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909SU-Sunday-26": [
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:18:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:45:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:46:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:18:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909WK-Friday-20": [
+        {
+            "departure_time": "23:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:06:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:51:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:40:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:04:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:37:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:40:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:12:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:31:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:06:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:55:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:38:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:36:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:51:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:14:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:33:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:13:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:53:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:08:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:32:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:38:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:52:00",
+            "route_id": "7-Victoria"
+        }
+    ],
+    "VIC1909-MV1909WK-M-Tu-W-Th-20": [
+        {
+            "departure_time": "23:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "23:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:06:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:51:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:40:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:04:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:37:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:34:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "06:15:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "07:19:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:40:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:12:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:31:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:06:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:55:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "10:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:38:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:56:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:36:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "09:51:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:14:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "11:48:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "14:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:05:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:47:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "12:21:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "13:29:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:33:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "21:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "15:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:13:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:54:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "19:53:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:16:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:22:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:08:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:57:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:23:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:39:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:32:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:09:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "17:38:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "18:50:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "16:24:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "20:52:00",
+            "route_id": "7-Victoria"
+        },
+        {
+            "departure_time": "22:52:00",
+            "route_id": "7-Victoria"
+        }
+    ]
+}
