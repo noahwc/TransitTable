@@ -13,7 +13,7 @@
 <body>
 <h1>VicSch</h1>
 
-<div id=main>
+<div v-cloak id=main>
     <input type=text v-model="stop_id"
     placeholder="Enter a stop number" 
     onblur="this.placeholder = 'Enter a stop number'"
@@ -49,20 +49,19 @@
                 <p class=right >{{time.route_id}}</p>
             </div>
         </div>
-
+        <p id=notice>Data courtesy of BC Transit.</p>
     </div>
 
     <div v-else-if="state == 'load-error'">
-            <p>
-                <strong>{{bad_id}}</strong> is not a valid stop number. Please enter a different stop number.
-            </p>
-        </div>
+        <p>
+            <strong>{{bad_id}}</strong> is not a valid stop number. Please enter a different stop number.
+        </p>
+    </div>
 
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
 <script type="module" src="scripts/main.js"></script>
-
 
 </body>
 </html>

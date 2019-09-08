@@ -81,10 +81,18 @@ hr {
     flex-grow:3;
 }
 
+#notice{
+    color: #6D746E;
+}
+
 #main{
     text-align: center;
     margin-bottom: 10vh;
 }
+
+[v-cloak] {
+    display: none;
+  }
 
 * {
     font-family: 'Source Sans Pro', sans-serif;
