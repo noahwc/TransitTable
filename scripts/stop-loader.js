@@ -6,7 +6,7 @@ export function stop_parser(active_services, stop_id, callback){
         var stop_list = JSON.parse(stops);
         active_services.forEach(function(service) {
             if(service.id in stop_list){
-                times.push(stop_list[service.id]);
+                times = times.concat(stop_list[service.id]);
             }
         });
         callback(times);
