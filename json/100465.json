@@ -1,0 +1,502 @@
+{
+    "2": [
+        {
+            "departure_time": "21:10:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:20:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "15:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "13:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "19:40:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:37:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:30:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "18:20:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "14:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "06:45:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "10:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "16:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "12:25:00",
+            "route_id": "37"
+        }
+    ],
+    "1": [
+        {
+            "departure_time": "09:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "15:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "13:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "19:40:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "21:10:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:20:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:37:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:30:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "14:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "12:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "06:45:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "18:20:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "10:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "16:25:00",
+            "route_id": "37"
+        }
+    ],
+    "10": [
+        {
+            "departure_time": "20:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "07:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "14:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "16:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "18:00:00",
+            "route_id": "36"
+        }
+    ],
+    "7": [
+        {
+            "departure_time": "14:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "20:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "16:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "07:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "18:00:00",
+            "route_id": "36"
+        }
+    ],
+    "8": [
+        {
+            "departure_time": "16:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "20:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "18:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "07:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "14:00:00",
+            "route_id": "36"
+        }
+    ],
+    "4": [
+        {
+            "departure_time": "09:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "15:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:20:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "21:10:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "13:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "19:40:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:37:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:30:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "12:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "14:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "10:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "16:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "18:20:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "06:45:00",
+            "route_id": "37"
+        }
+    ],
+    "9": [
+        {
+            "departure_time": "07:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "18:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "14:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "16:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "20:00:00",
+            "route_id": "36"
+        }
+    ],
+    "6": [
+        {
+            "departure_time": "07:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "18:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "14:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "20:00:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:55:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "16:00:00",
+            "route_id": "36"
+        }
+    ],
+    "5": [
+        {
+            "departure_time": "21:10:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:20:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "13:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "15:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "19:40:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:37:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:30:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "12:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "18:20:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "10:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "06:45:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "16:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "14:25:00",
+            "route_id": "37"
+        }
+    ],
+    "3": [
+        {
+            "departure_time": "06:20:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "21:10:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "08:05:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "11:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "09:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "15:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "13:30:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "19:40:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "17:37:00",
+            "route_id": "36"
+        },
+        {
+            "departure_time": "06:30:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "12:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "18:20:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "06:45:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "10:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "16:25:00",
+            "route_id": "37"
+        },
+        {
+            "departure_time": "14:25:00",
+            "route_id": "37"
+        }
+    ]
+}

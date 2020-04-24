@@ -1,44 +1,72 @@
 {
-    "VIC1907-MV1907WK-Weekday-10": [
+    "1": [
         {
-            "departure_time": "16:35:00",
-            "route_id": "28-Victoria"
+            "departure_time": "18:05:00",
+            "route_id": "22"
         },
         {
             "departure_time": "17:09:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
         },
         {
-            "departure_time": "18:05:00",
-            "route_id": "28-Victoria"
+            "departure_time": "16:35:00",
+            "route_id": "22"
         }
     ],
-    "VIC1909-MV1909WK-Friday-20": [
+    "3": [
         {
             "departure_time": "16:35:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
         },
         {
             "departure_time": "17:09:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
         },
         {
             "departure_time": "18:05:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
         }
     ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20": [
-        {
-            "departure_time": "16:35:00",
-            "route_id": "28-Victoria"
-        },
+    "2": [
         {
             "departure_time": "17:09:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
         },
         {
             "departure_time": "18:05:00",
-            "route_id": "28-Victoria"
+            "route_id": "22"
+        },
+        {
+            "departure_time": "16:35:00",
+            "route_id": "22"
+        }
+    ],
+    "4": [
+        {
+            "departure_time": "18:05:00",
+            "route_id": "22"
+        },
+        {
+            "departure_time": "16:35:00",
+            "route_id": "22"
+        },
+        {
+            "departure_time": "17:09:00",
+            "route_id": "22"
+        }
+    ],
+    "5": [
+        {
+            "departure_time": "17:09:00",
+            "route_id": "22"
+        },
+        {
+            "departure_time": "18:05:00",
+            "route_id": "22"
+        },
+        {
+            "departure_time": "16:35:00",
+            "route_id": "22"
         }
     ]
 }

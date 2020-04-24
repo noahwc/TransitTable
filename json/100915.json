@@ -1,22 +1,32 @@
 {
-    "VIC1909-MV1909WK-Friday-20": [
+    "1": [
         {
             "departure_time": "08:02:00",
-            "route_id": "17-Victoria"
-        },
-        {
-            "departure_time": "15:11:00",
-            "route_id": "17-Victoria"
+            "route_id": "15"
         }
     ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20": [
+    "2": [
         {
             "departure_time": "08:02:00",
-            "route_id": "17-Victoria"
-        },
+            "route_id": "15"
+        }
+    ],
+    "4": [
         {
-            "departure_time": "15:11:00",
-            "route_id": "17-Victoria"
+            "departure_time": "08:02:00",
+            "route_id": "15"
+        }
+    ],
+    "3": [
+        {
+            "departure_time": "08:02:00",
+            "route_id": "15"
+        }
+    ],
+    "5": [
+        {
+            "departure_time": "08:02:00",
+            "route_id": "15"
         }
     ]
 }

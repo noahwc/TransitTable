@@ -1,32 +1,52 @@
 {
-    "VIC1907-MV1907WK-Weekday-10": [
-        {
-            "departure_time": "07:07:00",
-            "route_id": "65-Victoria"
-        },
-        {
-            "departure_time": "07:37:00",
-            "route_id": "65-Victoria"
-        }
-    ],
-    "VIC1909-MV1909WK-Friday-20": [
+    "1": [
         {
             "departure_time": "07:09:00",
-            "route_id": "65-Victoria"
+            "route_id": "46"
         },
         {
             "departure_time": "07:39:00",
-            "route_id": "65-Victoria"
+            "route_id": "46"
         }
     ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20": [
+    "2": [
+        {
+            "departure_time": "07:39:00",
+            "route_id": "46"
+        },
         {
             "departure_time": "07:09:00",
-            "route_id": "65-Victoria"
+            "route_id": "46"
+        }
+    ],
+    "4": [
+        {
+            "departure_time": "07:39:00",
+            "route_id": "46"
+        },
+        {
+            "departure_time": "07:09:00",
+            "route_id": "46"
+        }
+    ],
+    "3": [
+        {
+            "departure_time": "07:09:00",
+            "route_id": "46"
         },
         {
             "departure_time": "07:39:00",
-            "route_id": "65-Victoria"
+            "route_id": "46"
+        }
+    ],
+    "5": [
+        {
+            "departure_time": "07:39:00",
+            "route_id": "46"
+        },
+        {
+            "departure_time": "07:09:00",
+            "route_id": "46"
         }
     ]
 }

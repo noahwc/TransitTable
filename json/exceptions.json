@@ -1,57 +1,32 @@
 [
     {
-        "date": "20190902",
-        "service_id": "VIC1909-MV1907ST-Sunday-01",
+        "date": "20200410",
+        "service_id": "4",
+        "exception_type": "2"
+    },
+    {
+        "date": "20200413",
+        "service_id": "5",
+        "exception_type": "2"
+    },
+    {
+        "date": "20200518",
+        "service_id": "5",
+        "exception_type": "2"
+    },
+    {
+        "date": "20200413",
+        "service_id": "6",
         "exception_type": "1"
     },
     {
-        "date": "20191014",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191014",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-1111000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191014",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-1101000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191014",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-0010000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191111",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191111",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-1111000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191111",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-1101000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191111",
-        "service_id": "VIC1909-MV1909WK-M-Tu-W-Th-20-0010000",
-        "exception_type": "2"
-    },
-    {
-        "date": "20191014",
-        "service_id": "VIC1909-MV1909SU-Sunday-25",
+        "date": "20200518",
+        "service_id": "8",
         "exception_type": "1"
     },
     {
-        "date": "20191111",
-        "service_id": "VIC1909-MV1909SU-Sunday-26",
+        "date": "20200410",
+        "service_id": "10",
         "exception_type": "1"
     }
 ]

@@ -1,428 +1,402 @@
 {
-    "VIC1907-1907MVSA-Saturday-10": [
-        {
-            "departure_time": "10:07:00",
-            "route_id": "81-Victoria"
-        },
+    "7": [
         {
             "departure_time": "08:12:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "12:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:07:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "18:07:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:07:00",
+            "route_id": "51"
         },
         {
             "departure_time": "20:07:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
-        {
-            "departure_time": "11:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:07:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1907-MV1907SU-Sunday-14": [
-        {
-            "departure_time": "08:10:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:12:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:11:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1907-MV1907WK-Weekday-10": [
-        {
-            "departure_time": "11:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "08:06:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "06:03:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "09:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "17:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:08:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1907ST-Sunday-01": [
-        {
-            "departure_time": "08:10:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:12:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:11:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909SA-Saturday-12": [
         {
             "departure_time": "10:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "08:12:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:07:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "16:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:07:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:07:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         }
     ],
-    "VIC1909-MV1909SU-Sunday-22": [
+    "9": [
         {
             "departure_time": "08:10:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:11:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "14:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:12:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909SU-Sunday-25": [
-        {
-            "departure_time": "08:10:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "10:11:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "12:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:11:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "18:11:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "20:12:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909SU-Sunday-26": [
-        {
-            "departure_time": "08:10:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:11:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "16:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:11:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:12:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         }
     ],
-    "VIC1909-MV1909WK-Friday-20": [
-        {
-            "departure_time": "11:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "12:08:00",
-            "route_id": "81-Victoria"
-        },
+    "5": [
         {
             "departure_time": "08:06:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:08:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "06:03:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "16:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "09:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "17:00:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "18:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "20:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "06:37:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909WK-Friday-20-0000100": [
-        {
-            "departure_time": "14:50:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20": [
-        {
-            "departure_time": "11:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "13:00:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "12:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "08:06:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "10:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "14:08:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "06:03:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
             "departure_time": "16:08:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
-            "departure_time": "09:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "15:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "17:00:00",
-            "route_id": "81-Victoria"
-        },
-        {
-            "departure_time": "18:08:00",
-            "route_id": "81-Victoria"
+            "departure_time": "14:08:00",
+            "route_id": "51"
         },
         {
             "departure_time": "20:08:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
         },
         {
-            "departure_time": "06:37:00",
-            "route_id": "81-Victoria"
-        }
-    ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20-1101000": [
+            "departure_time": "10:08:00",
+            "route_id": "51"
+        },
         {
             "departure_time": "15:22:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
+        },
+        {
+            "departure_time": "17:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "09:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "11:00:00",
+            "route_id": "51"
         }
     ],
-    "VIC1909-MV1909WK-M-Tu-W-Th-20-0010000": [
+    "10": [
+        {
+            "departure_time": "08:10:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:12:00",
+            "route_id": "51"
+        }
+    ],
+    "8": [
+        {
+            "departure_time": "08:10:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:12:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:11:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:11:00",
+            "route_id": "51"
+        }
+    ],
+    "6": [
+        {
+            "departure_time": "08:12:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:07:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:07:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:07:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:07:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:07:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:07:00",
+            "route_id": "51"
+        }
+    ],
+    "2": [
+        {
+            "departure_time": "06:03:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "08:06:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "15:22:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "17:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "11:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "09:00:00",
+            "route_id": "51"
+        }
+    ],
+    "1": [
+        {
+            "departure_time": "06:03:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "08:06:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:08:00",
+            "route_id": "51"
+        },
         {
             "departure_time": "14:50:00",
-            "route_id": "81-Victoria"
+            "route_id": "51"
+        },
+        {
+            "departure_time": "09:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "17:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "11:00:00",
+            "route_id": "51"
+        }
+    ],
+    "4": [
+        {
+            "departure_time": "06:03:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "08:06:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:50:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "09:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "17:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "11:00:00",
+            "route_id": "51"
+        }
+    ],
+    "3": [
+        {
+            "departure_time": "06:03:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "08:06:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "16:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "14:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "10:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "20:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "18:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "12:08:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "15:22:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "09:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "17:00:00",
+            "route_id": "51"
+        },
+        {
+            "departure_time": "11:00:00",
+            "route_id": "51"
         }
     ]
 }
